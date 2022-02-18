@@ -1,0 +1,308 @@
+[
+  {
+    "StateNameAbbr": "AL",
+    "StateName": "Alabama",
+    "AdjacentStates": [ "Florida", "Georgia", "Tennessee", "Mississippi" ],
+    "AdjacentStatesAbbr": [ "FL", "GA", "TN", "MS" ]
+  },
+  {
+    "StateNameAbbr": "AK",
+    "StateName": "Alaska",
+    "AdjacentStates": [],
+    "AdjacentStatesAbbr": []
+  },
+  {
+    "StateNameAbbr": "AZ",
+    "StateName": "Arizona",
+    "AdjacentStates": [ "New Mexico", "Utah", "Nevada", "California" ],
+    "AdjacentStatesAbbr": [ "NM", "UT", "NV", "CA" ]
+  },
+  {
+    "StateNameAbbr": "AR",
+    "StateName": "Arkansas",
+    "AdjacentStates": [ "Louisiana", "Mississippi", "Tennessee", "Missouri", "Oklahoma", "Texas" ],
+    "AdjacentStatesAbbr": [ "LA", "MS", "TN", "MO", "OK", "TX" ]
+  },
+  {
+    "StateNameAbbr": "CA",
+    "StateName": "California",
+    "AdjacentStates": [ "Arizona", "Nevada", "Oregon" ],
+    "AdjacentStatesAbbr": [ "AZ", "NV", "OR" ]
+  },
+  {
+    "StateNameAbbr": "CO",
+    "StateName": "Colorado",
+    "AdjacentStates": [ "New Mexico", "Oklahoma", "Kansas", "Nebraska", "Wyoming", "Utah" ],
+    "AdjacentStatesAbbr": [ "NM", "OK", "KS", "NE", "WY", "UT" ]
+  },
+  {
+    "StateNameAbbr": "CT",
+    "StateName": "Connecticut",
+    "AdjacentStates": [ "Rhode Island", "Massachusetts", "New York" ],
+    "AdjacentStatesAbbr": [ "RI", "MA", "NY" ]
+  },
+  {
+    "StateNameAbbr": "DE",
+    "StateName": "Delaware",
+    "AdjacentStates": [ "New Jersey", "Pennsylvania", "Maryland" ],
+    "AdjacentStatesAbbr": [ "NJ", "PA", "MD" ]
+  },
+  {
+    "StateNameAbbr": "DC",
+    "StateName": "District Of Columbia",
+    "AdjacentStates": [ "Maryland", "Virginia" ],
+    "AdjacentStatesAbbr": [ "MD", "VA" ]
+  },
+  {
+    "StateNameAbbr": "FL",
+    "StateName": "Florida",
+    "AdjacentStates": [ "Georgia", "Alabama" ],
+    "AdjacentStatesAbbr": [ "GA", "AL" ]
+  },
+  {
+    "StateNameAbbr": "GA",
+    "StateName": "Georgia",
+    "AdjacentStates": [ "South Carolina", "North Carolina", "Tennessee", "Alabama", "Florida" ],
+    "AdjacentStatesAbbr": [ "SC", "NC", "TN", "AL", "FL" ]
+  },
+  {
+    "StateNameAbbr": "HI",
+    "StateName": "Hawaii",
+    "AdjacentStates": [],
+    "AdjacentStatesAbbr": []
+  },
+  {
+    "StateNameAbbr": "ID",
+    "StateName": "Idaho",
+    "AdjacentStates": [ "Washington", "Oregon", "Nevada", "Utah", "Wyoming", "Montana" ],
+    "AdjacentStatesAbbr": [ "WA", "OR", "NV", "UT", "WY", "MT" ]
+  },
+  {
+    "StateNameAbbr": "IL",
+    "StateName": "Illinois",
+    "AdjacentStates": [ "Wisconsin", "Iowa", "Missouri", "Kentucky", "Indiana" ],
+    "AdjacentStatesAbbr": [ "WI", "IA", "MO", "KY", "IN" ]
+  },
+  {
+    "StateNameAbbr": "IN",
+    "StateName": "Indiana",
+    "AdjacentStates": [ "Illinois", "Kentucky", "Ohio", "Michigan" ],
+    "AdjacentStatesAbbr": [ "IL", "KY", "OH", "MI" ]
+  },
+  {
+    "StateNameAbbr": "IA",
+    "StateName": "Iowa",
+    "AdjacentStates": [ "Minnesota", "South Dakota", "Nebraska", "Missouri", "Illinois", "Wisconsin" ],
+    "AdjacentStatesAbbr": [ "MN", "SD", "NE", "MO", "IL", "WI" ]
+  },
+  {
+    "StateNameAbbr": "KS",
+    "StateName": "Kansas",
+    "AdjacentStates": [ "Oklahoma", "Missouri", "Nebraska", "Colorado" ],
+    "AdjacentStatesAbbr": [ "OK", "MO", "NE", "CO" ]
+  },
+  {
+    "StateNameAbbr": "KY",
+    "StateName": "Kentucky",
+    "AdjacentStates": [ "Tennessee", "Virginia", "West Virginia", "Ohio", "Indiana", "Illinois", "Missouri" ],
+    "AdjacentStatesAbbr": [ "TN", "VA", "WV", "OH", "IN", "IL", "MO" ]
+  },
+  {
+    "StateNameAbbr": "LA",
+    "StateName": "Louisiana",
+    "AdjacentStates": [ "Mississippi", "Arkansas", "Texas" ],
+    "AdjacentStatesAbbr": [ "MS", "AR", "TX" ]
+  },
+  {
+    "StateNameAbbr": "ME",
+    "StateName": "Maine",
+    "AdjacentStates": [ "New Hampshire" ],
+    "AdjacentStatesAbbr": [ "NH" ]
+  },
+  {
+    "StateNameAbbr": "MD",
+    "StateName": "Maryland",
+    "AdjacentStates": [ "Delaware", "District Of Columbia", "Pennsylvania", "West Virginia", "Virginia" ],
+    "AdjacentStatesAbbr": [ "DE", "DC", "PA", "WV", "VA" ]
+  },
+  {
+    "StateNameAbbr": "MA",
+    "StateName": "Massachusetts",
+    "AdjacentStates": [ "New Hampshire", "Vermont", "New York", "Connecticut", "Rhode Island" ],
+    "AdjacentStatesAbbr": [ "NH", "VT", "NY", "CT", "RI" ]
+  },
+  {
+    "StateNameAbbr": "MI",
+    "StateName": "Michigan",
+    "AdjacentStates": [ "Wisconsin", "Indiana", "Ohio" ],
+    "AdjacentStatesAbbr": [ "WI", "IN", "OH" ]
+  },
+  {
+    "StateNameAbbr": "MN",
+    "StateName": "Minnesota",
+    "AdjacentStates": [ "North Dakota", "South Dakota", "Iowa", "Wisconsin" ],
+    "AdjacentStatesAbbr": [ "ND", "SD", "IA", "WI" ]
+  },
+  {
+    "StateNameAbbr": "MS",
+    "StateName": "Mississippi",
+    "AdjacentStates": [ "Alabama", "Tennessee", "Arkansas", "Louisiana" ],
+    "AdjacentStatesAbbr": [ "AL", "TN", "AR", "LA" ]
+  },
+  {
+    "StateNameAbbr": "MO",
+    "StateName": "Missouri",
+    "AdjacentStates": [ "Arkansas", "Tennessee", "Kentucky", "Illinois", "Iowa", "Nebraska", "Kansas", "Oklahoma" ],
+    "AdjacentStatesAbbr": [ "AR", "TN", "KY", "IL", "IA", "NE", "KS", "OK" ]
+  },
+  {
+    "StateNameAbbr": "MT",
+    "StateName": "Montana",
+    "AdjacentStates": [ "Idaho", "Wyoming", "South Dakota", "North Dakota" ],
+    "AdjacentStatesAbbr": [ "ID", "WY", "SD", "ND" ]
+  },
+  {
+    "StateNameAbbr": "NE",
+    "StateName": "Nebraska",
+    "AdjacentStates": [ "Kansas", "Missouri", "Iowa", "South Dakota", "Wyoming", "Colorado" ],
+    "AdjacentStatesAbbr": [ "KS", "MO", "IA", "SD", "WY", "CO" ]
+  },
+  {
+    "StateNameAbbr": "NV",
+    "StateName": "Nevada",
+    "AdjacentStates": [ "Arizona", "Utah", "Idaho", "Oregon", "California" ],
+    "AdjacentStatesAbbr": [ "AZ", "UT", "ID", "OR", "CA" ]
+  },
+  {
+    "StateNameAbbr": "NH",
+    "StateName": "New Hampshire",
+    "AdjacentStates": [ "Vermont", "Massachusetts", "Maine" ],
+    "AdjacentStatesAbbr": [ "VT", "MA", "ME" ]
+  },
+  {
+    "StateNameAbbr": "NJ",
+    "StateName": "New Jersey",
+    "AdjacentStates": [ "New York", "Pennsylvania", "Delaware" ],
+    "AdjacentStatesAbbr": [ "NY", "PA", "DE" ]
+  },
+  {
+    "StateNameAbbr": "NM",
+    "StateName": "New Mexico",
+    "AdjacentStates": [ "Texas", "Oklahoma", "Colorado", "Arizona" ],
+    "AdjacentStatesAbbr": [ "TX", "OK", "CO", "AZ" ]
+  },
+  {
+    "StateNameAbbr": "NY",
+    "StateName": "New York",
+    "AdjacentStates": [ "Pennsylvania", "New Jersey", "Connecticut", "Massachusetts", "Vermont" ],
+    "AdjacentStatesAbbr": [ "PA", "NJ", "CT", "MA", "VT" ]
+  },
+  {
+    "StateNameAbbr": "NC",
+    "StateName": "North Carolina",
+    "AdjacentStates": [ "Virginia", "Tennessee", "Georgia", "South Carolina" ],
+    "AdjacentStatesAbbr": [ "VA", "TN", "GA", "SC" ]
+  },
+  {
+    "StateNameAbbr": "ND",
+    "StateName": "North Dakota",
+    "AdjacentStates": [ "Montana", "South Dakota", "Minnesota" ],
+    "AdjacentStatesAbbr": [ "MT", "SD", "MN" ]
+  },
+  {
+    "StateNameAbbr": "OH",
+    "StateName": "Ohio",
+    "AdjacentStates": [ "Michigan", "Indiana", "Kentucky", "West Virginia", "Pennsylvania" ],
+    "AdjacentStatesAbbr": [ "MI", "IN", "KY", "WV", "PA" ]
+  },
+  {
+    "StateNameAbbr": "OK",
+    "StateName": "Oklahoma",
+    "AdjacentStates": [ "Texas", "Arkansas", "Missouri", "Kansas", "Colorado", "New Mexico" ],
+    "AdjacentStatesAbbr": [ "TX", "AR", "MO", "KS", "CO", "NM" ]
+  },
+  {
+    "StateNameAbbr": "OR",
+    "StateName": "Oregon",
+    "AdjacentStates": [ "California", "Nevada", "Idaho", "Washington" ],
+    "AdjacentStatesAbbr": [ "CA", "NV", "ID", "WA" ]
+  },
+  {
+    "StateNameAbbr": "PA",
+    "StateName": "Pennsylvania",
+    "AdjacentStates": [ "Ohio", "West Virginia", "Maryland", "Delaware", "New Jersey", "New York" ],
+    "AdjacentStatesAbbr": [ "OH", "WV", "MD", "DE", "NJ", "NY" ]
+  },
+  {
+    "StateNameAbbr": "RI",
+    "StateName": "Rhode Island",
+    "AdjacentStates": [ "Massachusetts", "Connecticut" ],
+    "AdjacentStatesAbbr": [ "MA", "CT" ]
+  },
+  {
+    "StateNameAbbr": "SC",
+    "StateName": "South Carolina",
+    "AdjacentStates": [ "North Carolina", "Georgia" ],
+    "AdjacentStatesAbbr": [ "NC", "GA" ]
+  },
+  {
+    "StateNameAbbr": "SD",
+    "StateName": "South Dakota",
+    "AdjacentStates": [ "Nebraska", "Iowa", "Minnesota", "North Dakota", "Montana", "Wyoming" ],
+    "AdjacentStatesAbbr": [ "NE", "IA", "MN", "ND", "MT", "WY" ]
+  },
+  {
+    "StateNameAbbr": "TN",
+    "StateName": "Tennessee",
+    "AdjacentStates": [ "Alabama", "Georgia", "North Carolina", "Virginia", "Kentucky", "Missouri", "Arkansas", "Mississippi" ],
+    "AdjacentStatesAbbr": [ "AL", "GA", "NC", "VA", "KY", "MO", "AR", "MS" ]
+  },
+  {
+    "StateNameAbbr": "TX",
+    "StateName": "Texas",
+    "AdjacentStates": [ "Louisiana", "Arkansas", "Oklahoma", "New Mexico" ],
+    "AdjacentStatesAbbr": [ "LA", "AR", "OK", "NM" ]
+  },
+  {
+    "StateNameAbbr": "UT",
+    "StateName": "Utah",
+    "AdjacentStates": [ "Arizona", "Colorado", "Wyoming", "Idaho", "Nevada" ],
+    "AdjacentStatesAbbr": [ "AZ", "CO", "WY", "ID", "NV" ]
+  },
+  {
+    "StateNameAbbr": "VT",
+    "StateName": "Vermont",
+    "AdjacentStates": [ "New York", "Massachusetts", "New Hampshire" ],
+    "AdjacentStatesAbbr": [ "NY", "MA", "NH" ]
+  },
+  {
+    "StateNameAbbr": "VA",
+    "StateName": "Virginia",
+    "AdjacentStates": [ "District Of Columbia", "Maryland", "West Virginia", "Kentucky", "Tennessee", "North Carolina" ],
+    "AdjacentStatesAbbr": [ "DC", "MD", "WV", "KY", "TN", "NC" ]
+  },
+  {
+    "StateNameAbbr": "WA",
+    "StateName": "Washington",
+    "AdjacentStates": [ "Oregon", "Idaho" ],
+    "AdjacentStatesAbbr": [ "OR", "ID" ]
+  },
+  {
+    "StateNameAbbr": "WV",
+    "StateName": "West Virginia",
+    "AdjacentStates": [ "Virginia", "Maryland", "Pennsylvania", "Ohio", "Kentucky" ],
+    "AdjacentStatesAbbr": [ "VA", "MD", "PA", "OH", "KY" ]
+  },
+  {
+    "StateNameAbbr": "WI",
+    "StateName": "Wisconsin",
+    "AdjacentStates": [ "Minnesota", "Iowa", "Illinois", "Michigan" ],
+    "AdjacentStatesAbbr": [ "MN", "IA", "IL", "MI" ]
+  },
+  {
+    "StateNameAbbr": "WY",
+    "StateName": "Wyoming",
+    "AdjacentStates": [ "Colorado", "Nebraska", "South Dakota", "Montana", "Idaho", "Utah" ],
+    "AdjacentStatesAbbr": [ "CO", "NE", "SD", "MT", "ID", "UT" ]
+  }
+]
