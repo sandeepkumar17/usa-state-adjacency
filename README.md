@@ -1,2 +1,2 @@
-# usa-state-adjacency
-JSON file contains USA states with adjacent state information
+# USA State Adjacency List
+**JSON file contains USA states with adjacent state information**
